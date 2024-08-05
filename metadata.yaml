@@ -1,0 +1,58 @@
+_repo: El-libro-de-las-mil-noches-y-una-noche-t-7_74065
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mardrus, J. C. (Joseph Charles)
+    alias: Mardrus, Joseph Charles Victor
+    birthdate: 1868
+    deathdate: 1949
+    gutenberg_agent_id: '44241'
+    url: http://www.gutenberg.org/2009/agents/44241
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+  editor:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Ibáñez, Vicente Blasco
+    - Blasco Ibanez, Vicente
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
+    - https://es.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
+description: ''
+gutenberg_issued: '2024-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74065'
+language: es
+pgterms:marc905: 20131025034325mardrus
+pgterms:marc906: '1916'
+pgterms:marc907: Spain
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aValencia :$bEditorial Prometeo, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Arabs -- Folklore'
+- !lcsh 'Folklore -- Arab countries'
+- !lcsh 'Tales -- Arab countries'
+- !lcsh 'Fairy tales -- Arab countries'
+- !lcc 'PJ'
+- GITenberg
+title: El libro de las mil noches y una noche; t. 7
+url: http://www.gutenberg.org/ebooks/74065
